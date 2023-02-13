@@ -1,1 +1,1 @@
-**_Software Engineering Method_**
+![workflow](https://github.com/<TemmyComp>/<sem>/actions/workflows/main.yml/badge.svg)
