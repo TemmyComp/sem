@@ -1,4 +1,4 @@
-**_Software Engineering Method TemmyComp_**
+**_Software Engineering Method **TemmyComp**_**
 
 ![GitHub Workflow Status (develop)](https://img.shields.io/github/actions/workflow/status/TemmyComp/sem/main.yml?branch=develop)
 
