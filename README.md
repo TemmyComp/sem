@@ -1,4 +1,5 @@
 **_Software Engineering Method_**
+Lab03 workflow docker compose
 
 ![GitHub Workflow Status (develop)](https://img.shields.io/github/actions/workflow/status/TemmyComp/sem/main.yml?branch=develop)
 
