@@ -8,7 +8,6 @@ public class Main {
 
         // Connect to database
         a.connect();
-
         // Disconnect from database
         a.disconnect();
     }
