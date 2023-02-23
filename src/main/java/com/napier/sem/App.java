@@ -108,9 +108,9 @@ public class App {
                             + emp.first_name + " "
                             + emp.last_name + "\n"
                             + emp.title + "\n"
-                            + emp.salary + "\n"
+                            + "Salary: " + emp.salary + "\n"
                             + emp.dept_name + "\n"
-                            + emp.manager  + "\n");
+                            + "Manager: " + emp.manager + "\n");
         }
     }
 
