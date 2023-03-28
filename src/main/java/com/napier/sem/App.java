@@ -80,7 +80,7 @@ public class App {
             Statement stmt = con.createStatement();
             // Create string for SQL statement
             String strSelect =
-                    "SELECT emp_no, first_name, last_name"
+                    "SELECT emp_no, first_name, last_name "
                             + "FROM employees "
                             + "WHERE emp_no = " + ID;
 
